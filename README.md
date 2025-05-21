@@ -1,4 +1,5 @@
 # OBSBOT Tail FreeD Camera Simulator
+https://youtu.be/o_Zvlnq0UFI
 
 This Python script, `UDP_OBSBOT_TAIL_FREED_SERVER_BETA.py`, simulates a FreeD camera, leveraging an OBSBOT Tail gimbal for baseline orientation and allowing for keyboard adjustments.
 
