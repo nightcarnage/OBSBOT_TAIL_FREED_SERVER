@@ -1,6 +1,8 @@
 # OBSBOT Tail FreeD Server (Beta)
 
-This project provides a specialized **UDP bridge** for the **OBSBOT Tail** camera.
+https://youtu.be/o_Zvlnq0UFI
+
+This project provides a specialized **UDP bridge** for the **OBSBOT Tail** camera for use with Unreal Engine.
 
 Unlike standard PTZ controllers that *drive* the camera’s movement, this server acts as a **FreeD data provider and movement offset manager**.
 
@@ -58,14 +60,3 @@ It listens for the following **offset commands**:
 | Roll Offset | Fine-tunes horizon leveling                      |
 | FreeD Out   | Continuous stream of D1 hex packets              |
 
----
-
-## 🚀 Getting Started
-
-### Prerequisites
-
-- Python **3.10+**
-- `requests` library  
-
-```bash
-pip install requests
